@@ -47,10 +47,15 @@ The repository consists of:
 3. REPOSITORY STRUCTURE
 --------------------------------------------------------------------------------
 |
+
 |-- privacy-policy.txt     # Plain text Privacy Policy
+
 |-- terms-and-conditions.txt # Plain text Terms and Conditions
+
 |-- cancellation-and-refund-policy.txt # Plain text Cancellation & Refund Policy
+
 |-- about-legal.txt        # Plain text Legal & Compliance Overview
+
 `-- README.txt             # Project documentation (this file)
 
 
@@ -84,7 +89,10 @@ The repository consists of:
 5. LEGAL & CONTACT
 --------------------------------------------------------------------------------
 Application: BlitzApp
+
 Operator: Independent Project Operator (Personal Project)
+
 Contact Email: blitz.platform.app@gmail.com
+
 Jurisdiction: Kurdistan Region, Iraq
 ================================================================================
