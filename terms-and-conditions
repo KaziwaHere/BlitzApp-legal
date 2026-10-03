@@ -1,0 +1,244 @@
+================================================================================
+BLITZAPP - TERMS AND CONDITIONS
+================================================================================
+Effective Date & Last Updated: October 3, 2026
+Application Name: BlitzApp
+Operator: Independent Project Operator (Personal Non-Commercial Project)
+Contact Email: blitz.platform.app@gmail.com
+Governing Jurisdiction: Kurdistan Region, Iraq
+================================================================================
+
+1. AGREEMENT TO TERMS
+--------------------------------------------------------------------------------
+These Terms & Conditions govern your access to and use of the BlitzApp mobile 
+application. BlitzApp is an independent personal project created to coordinate 
+football stadium and game center bookings.
+
+By creating an account, logging in, or using the application to discover and 
+reserve sports venues, you agree to comply with and be bound by these Terms and 
+our Privacy Policy. If you do not agree to these Terms, please do not use the 
+application.
+
+
+2. NATURE OF THE PLATFORM (INTERMEDIARY MARKETPLACE)
+--------------------------------------------------------------------------------
+BlitzApp operates solely as a schedule coordination and booking platform 
+connecting sports players and teams ("Customers") with independent sports stadium 
+and game center operators ("Venue Managers").
+
+Independent Venue Operations:
+BlitzApp is a software tool and does NOT own, operate, staff, inspect, maintain, 
+or control the physical football stadiums or game centers listed on the app. All 
+physical facility management, pitch safety, turf condition, lighting, on-site 
+hospitality, and schedule fulfillment are the sole responsibility of the 
+independent Venue Managers.
+
+
+3. USER ACCOUNTS & SECURITY
+--------------------------------------------------------------------------------
+* Eligibility:
+  You must be at least 13 years of age, or have the permission and supervision 
+  of a parent or legal guardian, to create an account and make reservations.
+
+* Account Registration:
+  You must provide your real name and select a unique username. Creating fake 
+  accounts, using offensive usernames, or impersonating other individuals is 
+  strictly prohibited.
+
+* Password Confidentiality:
+  You are responsible for keeping your account password confidential. You agree 
+  to notify us immediately if you suspect unauthorized access to your account.
+
+* Single Account Rule:
+  Users may not register multiple duplicate accounts to circumvent booking 
+  restrictions, administrative warnings, or temporary suspensions.
+
+
+4. CUSTOMER RIGHTS & RESPONSIBILITIES
+--------------------------------------------------------------------------------
+As a Customer using BlitzApp to discover and reserve sports facilities:
+
+* Legitimate Reservations Only:
+  You agree to reserve time slots only when you genuinely intend to play. 
+  Creating speculative, duplicate, or disruptive reservations is prohibited.
+
+* Punctuality & Facility Rules:
+  You and your team members agree to arrive on time for your scheduled match or 
+  session and strictly adhere to all facility guidelines, sportsmanship rules, 
+  and safety directions established by the venue.
+
+* Cancellation & No-Show Obligations:
+  If you are unable to attend a scheduled reservation, you must cancel the 
+  booking inside the app as early as possible so the time slot can be released 
+  for other players. Repeated unexcused no-shows may lead to venue manager 
+  reports, formal administrative warnings, or temporary booking suspensions.
+
+
+5. VENUE MANAGER RESPONSIBILITIES
+--------------------------------------------------------------------------------
+Venue Managers (Stadium & Game Center Operators) listing facilities on BlitzApp 
+agree to the following standards:
+
+* Authority to Manage:
+  You represent and warrant that you are the lawful owner, authorized lessee, 
+  or designated manager with full legal authority to list and manage reservations 
+  for the venue.
+
+* Accuracy of Listings:
+  You must maintain accurate venue descriptions, true hourly pricing in Iraqi 
+  Dinars (IQD), authentic photos, correct amenity descriptions, and real-time 
+  slot availability.
+
+* Honoring Confirmed Bookings:
+  You must honor confirmed customer reservations. You may not arbitrarily cancel 
+  confirmed app reservations, favor off-platform walk-ins over confirmed bookings, 
+  or alter agreed rates upon customer arrival.
+
+* Transparent Cancellations:
+  If a venue becomes unavailable due to adverse weather, emergency turf repairs, 
+  or unexpected facility issues, you must cancel the booking in the app immediately 
+  and provide a clear, truthful explanation to the customer.
+
+* Accurate Venue Location:
+  You are responsible for ensuring that GPS coordinates and neighborhood 
+  directions set on your venue listing are exact to prevent customer confusion.
+
+
+6. BOOKING PROCESS & SLOT CONFIRMATION
+--------------------------------------------------------------------------------
+How time slots are reserved and managed in BlitzApp:
+
+* Instant Reservation & Slot Locks:
+  Selecting an open time slot and confirming the booking creates an active 
+  reservation. The time slot is locked atomically in the database to prevent 
+  duplicate or conflicting bookings.
+
+* First-Come, First-Served:
+  Slots are allocated on a strictly first-come, first-served basis. If two users 
+  attempt to reserve the same slot simultaneously, database transactions ensure 
+  that only the first confirmed request succeeds.
+
+* Manager Slot Blocking:
+  Venue managers may block specific slots for private maintenance or local club 
+  events using their management dashboard, provided they do not override existing 
+  confirmed customer bookings.
+
+
+7. PAYMENT & FEE STRUCTURE
+--------------------------------------------------------------------------------
+* Customer-to-Venue Payments:
+  BlitzApp does NOT process digital credit card payments or hold customer 
+  deposits. Customers pay the venue manager directly on-site at the sports 
+  facility (typically in cash in IQD upon arrival) or through private 
+  arrangements agreed between the customer and the venue operator.
+
+* Platform Service Fee (Venue Managers):
+  Registered venue operators are subject to an internal 3% platform commission 
+  on completed customer reservations. Platform fees are calculated by the system 
+  and settled periodically between the venue manager and platform administration.
+
+* Price Guarantees:
+  Venue managers may not demand higher prices than the rate displayed in the 
+  application at the time the customer confirmed the reservation.
+
+
+8. PROHIBITED ACTIVITIES
+--------------------------------------------------------------------------------
+Users agree NOT to engage in any of the following prohibited behaviors:
+
+* Spam & Fake Reservations:
+  Reserving multiple slots without intent to play, or systematically booking and 
+  cancelling slots to disrupt venue operators or competitors.
+
+* Harassment & Abuse:
+  Sending abusive, threatening, vulgar, or defamatory messages in cancellation 
+  reasons, reports, or communications.
+
+* Technical Exploits:
+  Attempting to reverse engineer, decompile, scrape, or send automated or 
+  unauthorized API requests to the BlitzApp backend.
+
+* Unlawful Purpose:
+  Using the application for any fraudulent or illegal activity.
+
+
+9. WARNINGS, SUSPENSIONS & TERMINATION
+--------------------------------------------------------------------------------
+To preserve reliability and fair play for both venue operators and players:
+
+* In-App Warnings:
+  Platform administrators and venue managers may issue formal warnings regarding 
+  unexcused no-shows, late cancellations, or misconduct.
+
+* Temporary Suspensions:
+  Administrators may temporarily suspend an account (e.g. for 24 hours, 72 hours, 
+  or 7 days) following repeated verified no-show reports or failure to follow 
+  platform rules. Suspended accounts cannot book slots during the suspension 
+  period.
+
+* Permanent Termination:
+  We reserve the right to permanently terminate accounts for severe fraud, 
+  impersonation, or persistent violations of these Terms.
+
+* Voluntary Account Deletion:
+  You may delete your account at any time through the in-app Account Deletion 
+  feature (Profile > Legal & Compliance > Delete Account).
+
+
+10. INTELLECTUAL PROPERTY & USER CONTENT
+--------------------------------------------------------------------------------
+All software code, user interface designs, and platform features of BlitzApp are 
+the intellectual property of the project developer.
+
+You retain ownership of any profile pictures or venue photos you upload, and 
+grant BlitzApp a non-exclusive, royalty-free license to host, display, and format 
+your images solely for operating and displaying your profile or venue listing 
+within the application.
+
+
+11. DISCLAIMER OF WARRANTIES & LIMITATION OF LIABILITY
+--------------------------------------------------------------------------------
+BlitzApp is provided on an "AS IS" and "AS AVAILABLE" basis without warranties of 
+any kind, whether express or implied.
+
+* Uninterrupted Operation:
+  We do not guarantee that the application will always be uninterrupted, 
+  error-free, or continuously available.
+
+* Physical Safety & On-Site Risks:
+  Playing football and sports carries inherent physical risks. BlitzApp and its 
+  developer/operator are NOT liable for any personal injuries, accidents, medical 
+  emergencies, theft, property loss, property damage, weather disruptions, pitch 
+  conditions, or disputes occurring at physical stadium or game center 
+  facilities.
+
+* Limitation of Liability:
+  To the maximum extent permitted by applicable law, the developer and project 
+  operator shall not be liable for any indirect, incidental, special, or 
+  consequential damages arising out of your use of the application or facility 
+  visits.
+
+
+12. GOVERNING LAW & DISPUTE RESOLUTION
+--------------------------------------------------------------------------------
+If you have any dispute, concern, or feedback regarding BlitzApp, you agree to 
+first contact the project operator at blitz.platform.app@gmail.com to seek an 
+informal and friendly resolution.
+
+Any unresolved legal proceedings shall be subject to the applicable laws and 
+competent courts of Kurdistan Region, Iraq.
+
+
+13. CHANGES TO TERMS & CONTACT
+--------------------------------------------------------------------------------
+We reserve the right to revise or replace these Terms to reflect updates in 
+application functionality. Revised Terms will be made accessible in the app 
+with an updated "Effective Date". Continued use of the platform after updates 
+take effect constitutes your acceptance.
+
+If you have any questions regarding these Terms, please contact us at:
+
+Email: blitz.platform.app@gmail.com
+Platform: BlitzApp (Independent Project)
+Region: Kurdistan Region, Iraq
+================================================================================
