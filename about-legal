@@ -1,0 +1,94 @@
+================================================================================
+BLITZAPP - LEGAL & COMPLIANCE OVERVIEW
+================================================================================
+Effective Date & Last Updated: October 3, 2026
+Application Name: BlitzApp
+Project Type: Independent Personal Developer Project (Non-Commercial)
+Operator Title: Independent Project Operator
+Contact Email: blitz.platform.app@gmail.com
+Governing Jurisdiction: Kurdistan Region, Iraq
+================================================================================
+
+1. PROJECT NATURE & GOVERNANCE
+--------------------------------------------------------------------------------
+BlitzApp is an independent software project developed to help sports players, 
+teams, football stadiums, and game centers discover, schedule, and coordinate 
+venue reservations.
+
+* Operating Status:
+  This application is operated as a personal, non-commercial developer project 
+  without a registered corporate or business entity.
+
+* Intermediary Role:
+  BlitzApp serves purely as a technological scheduling tool. BlitzApp does not 
+  own, staff, maintain, inspect, or manage any physical stadium or game center 
+  facility listed on the platform. All facility conditions, pricing, on-site 
+  safety, and match execution remain the direct responsibility of independent 
+  venue operators.
+
+
+2. LEGAL DOCUMENTS INCLUDED IN BLITZAPP
+--------------------------------------------------------------------------------
+The BlitzApp Legal Hub comprises the following core policy documents:
+
+1. Privacy Policy (privacy-policy.txt):
+   - Detailed breakdown of minimal data collection practices (names, usernames, 
+     passwords hashed via bcrypt, reservation slots, venue listings).
+   - Zero external tracking, zero cross-app data sharing, no behavioral ads.
+   - GPS and Google Maps location handling policies (discrete manual manager 
+     pins only; no continuous background tracking).
+   - User privacy rights and self-service account deletion.
+
+2. Terms and Conditions (terms-and-conditions.txt):
+   - User account rules, age eligibility (13+), single-account policy.
+   - Customer responsibilities (legitimate bookings, punctuality, fair play).
+   - Venue manager responsibilities (accurate listings, price guarantee, 
+     honoring confirmed app bookings).
+   - Prohibited behaviors (spam bookings, harassment, technical exploits).
+   - Limitation of liability regarding physical sports risks and injuries.
+   - Governing jurisdiction and dispute resolution framework.
+
+3. Cancellation & Refund Policy (cancellation-and-refund-policy.txt):
+   - Step-by-step customer in-app cancellation workflow.
+   - Fair play cancellation timelines and anti-no-show guidelines.
+   - Venue manager cancellation rules and mandatory reason disclosures.
+   - Explanation of on-site cash payment model (no in-app financial transactions 
+     or digital escrow refunds).
+   - Administrative grievance and dispute resolution process.
+
+4. Account Deletion & Data Erasure Policy:
+   - Self-service account deletion accessible directly in-app under 
+     Profile > Legal & Compliance > Delete Account.
+   - Password verification or typing "DELETE" safeguard.
+   - Immediate cancellation and release of upcoming active reservations.
+   - Complete erasure or anonymization of profile identifiers, session tokens, 
+     and personal data.
+   - Anonymized retention of past booking transaction records solely for 
+     auditing and venue accounting integrity.
+
+
+3. ROLES & PARTICIPANTS
+--------------------------------------------------------------------------------
+* Customers (Players & Teams):
+  Can discover venues, view availability, reserve slots, cancel bookings, 
+  manage favorites, and delete their accounts.
+
+* Venue Managers (Stadium & Game Center Operators):
+  Can list facilities, set hourly rates in Iraqi Dinars (IQD), manage slot 
+  availability, receive booking notifications, review reports, and settle 
+  internal 3% platform service fees.
+
+* Platform Administration:
+  Maintains system security, audits database logs, monitors no-show reports, 
+  and resolves disputes between players and managers.
+
+
+4. CONTACT & LEGAL INQUIRIES
+--------------------------------------------------------------------------------
+For legal questions, compliance notices, data erasure requests, or booking 
+dispute support, please contact:
+
+Project Operator: BlitzApp Developer
+Email: blitz.platform.app@gmail.com
+Jurisdiction: Kurdistan Region, Iraq
+================================================================================
