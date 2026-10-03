@@ -1,0 +1,1 @@
+# BlitzApp-legal
