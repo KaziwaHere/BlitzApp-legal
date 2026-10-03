@@ -1,0 +1,253 @@
+================================================================================
+BLITZAPP - PRIVACY POLICY
+================================================================================
+Effective Date & Last Updated: October 3, 2026
+Application Name: BlitzApp
+Operator: Independent Project Operator (Personal Non-Commercial Project)
+Contact Email: blitz.platform.app@gmail.com
+Governing Jurisdiction: Kurdistan Region, Iraq
+================================================================================
+
+1. INTRODUCTION & OVERVIEW
+--------------------------------------------------------------------------------
+Welcome to BlitzApp. BlitzApp is an independent personal project created to 
+help players and teams discover and coordinate reservations with local football 
+stadiums and game centers.
+
+This is a personal, non-commercial developer project operated without a 
+registered corporate or business entity. This Privacy Policy transparently 
+explains what minimal data is collected, how it is handled to coordinate sports 
+bookings, and how you retain full control over your personal data.
+
+Transparent & Minimal Data Practices:
+We only collect information strictly required to create your account and 
+coordinate sports reservations. We do not track your activity across other apps, 
+display behavioral advertisements, or sell your personal data.
+
+
+2. INFORMATION WE COLLECT
+--------------------------------------------------------------------------------
+We collect information directly provided by you during account registration, 
+profile management, venue management, and reservation booking:
+
+* Account Credentials & Profile:
+  Your full name, a unique username (used as your primary login identifier), 
+  and your password. Passwords are cryptographically hashed using server-side 
+  bcrypt before storage. You may optionally upload a profile picture.
+
+* Booking & Reservation Data:
+  When reserving a stadium or game center slot, we store the venue ID, scheduled 
+  date, time slot, hourly fee in Iraqi Dinars (IQD), reservation status (active, 
+  pending, accepted, denied, cancelled), and any cancellation notes provided.
+
+* Venue Information (Managers Only):
+  If you list a stadium or game center, we store your venue name, neighborhood/
+  city description, hourly pricing, amenities/games offered, venue photos, and 
+  operating schedule.
+
+* In-App Notifications:
+  Status updates, booking notices, cancellation alerts, and administrative 
+  warnings are generated and stored directly in our application database. We do 
+  not collect or store external push notification device tokens (such as Apple 
+  APNs or Firebase Cloud Messaging tokens).
+
+* Data We Do NOT Collect:
+  We do NOT collect credit/debit card numbers, bank account credentials, 
+  continuous background GPS location, phone numbers for registration/login, OTP 
+  codes, advertising identifiers, or biometric data.
+
+
+3. PASSWORD & ACCOUNT SECURITY
+--------------------------------------------------------------------------------
+Your account authentication is built on industry-standard security principles:
+
+* Bcrypt Hashing:
+  All passwords are transformed with strong one-way cryptographic hashing 
+  (bcrypt) before ever being written to the database. Plaintext passwords are 
+  never stored, logged, or visible to anyone, including platform administrators.
+
+* Encrypted Transmission:
+  All communications between the mobile application and the backend API take 
+  place over secure HTTPS / TLS encrypted channels.
+
+* Token-Based Authentication:
+  Protected API endpoints use cryptographically random Laravel Sanctum bearer 
+  tokens. Tokens are securely stored on your device and can be instantly 
+  invalidated upon logout or account deletion.
+
+* Login Rate Limiting:
+  To protect accounts against automated brute-force attacks, the login endpoint 
+  enforces rate limiting (maximum 5 attempts per minute per account/IP).
+
+
+4. LOCATION DATA & GOOGLE MAPS
+--------------------------------------------------------------------------------
+Accurate venue discovery is essential for sports bookings. Location data is 
+handled under strict, feature-specific boundaries:
+
+* Customers (Players & Teams):
+  The mobile application does NOT request, access, or record your physical 
+  device GPS location. Customers browse venues by listed neighborhoods and cities 
+  without transmitting device coordinates to our servers.
+
+* Venue Managers (Stadium & Center Operators):
+  Managers may capture their venue's geographic pin (latitude, longitude, and 
+  accuracy radius) using their device's GPS during venue setup or update. This GPS 
+  reading occurs ONLY upon an explicit button tap. Continuous background GPS 
+  tracking is never executed.
+
+* Permanent Storage of Coordinates:
+  Only the resulting venue map coordinates (latitude and longitude) are 
+  permanently stored in the database to display the stadium or game center pin on 
+  the map. The manager's personal device location is not tracked thereafter.
+
+* Google Maps Integration:
+  We integrate Google Maps to allow managers to verify their venue pin and allow 
+  customers to view venue locations and open turn-by-turn directions in their 
+  external Google Maps app. Interactions with Google Maps are governed by the 
+  Google Privacy Policy (https://policies.google.com/privacy).
+
+
+5. HOW WE USE YOUR INFORMATION
+--------------------------------------------------------------------------------
+Information collected is used solely for legitimate platform functionality:
+
+* Account Authentication:
+  Creating accounts, authenticating logins with unique usernames and passwords, 
+  and maintaining secure login sessions.
+
+* Booking Coordination:
+  Allocating time slots, preventing double-bookings with atomic database locks, 
+  and routing booking confirmations or cancellation notices between players and 
+  venue operators.
+
+* Venue Listing & Discovery:
+  Displaying venue descriptions, pricing in IQD, slot availability, and map pins 
+  to prospective sports players.
+
+* Platform Administration & Quality Control:
+  Reviewing no-show reports, resolving booking cancellations, issuing 
+  administrative notices, and calculating internal 3% platform service fees for 
+  registered venue operators.
+
+* Abuse Prevention & Security:
+  Preventing spam bookings, enforcing temporary bans against abusive accounts, 
+  and protecting API endpoints against unauthorized access.
+
+
+6. PAYMENTS & FINANCIAL TRANSACTIONS
+--------------------------------------------------------------------------------
+BlitzApp coordinates reservations and schedules but does NOT operate an integrated 
+digital payment gateway:
+
+* Customer On-Site Payments:
+  Customers pay venue operators directly on-site at the sports facility 
+  (typically in cash in Iraqi Dinars upon arrival) or through private arrangements 
+  agreed between the customer and the venue operator. No payment card numbers, 
+  bank accounts, or financial transactions are collected or processed by BlitzApp.
+
+* Venue Platform Fees:
+  Registered venue operators are subject to an internal 3% platform commission 
+  on completed customer reservations, which is tracked and reconciled 
+  administratively with platform operations.
+
+
+7. DATA SHARING & DISCLOSURE
+--------------------------------------------------------------------------------
+We do not sell, rent, lease, or trade personal data to third parties. Data is 
+shared only in the following direct operational contexts:
+
+* Between Customers and Venue Managers:
+  When a reservation is created, the customer's name, username, and reserved 
+  time slot are shared with the venue manager to facilitate venue access. 
+  Similarly, the manager's venue details and location are displayed to the 
+  customer.
+
+* Technical Infrastructure Providers:
+  We utilize trusted hosting and technical service providers (Hostinger cloud 
+  hosting and Google Maps API) strictly to run the backend and map rendering.
+
+* Legal Compliance:
+  We may disclose data only if strictly required by applicable law, lawful 
+  authority request, or to prevent malicious fraud and protect physical safety.
+
+
+8. DATA RETENTION & ACCOUNT DELETION
+--------------------------------------------------------------------------------
+We retain personal information only for as long as your account remains active 
+and as needed for platform integrity:
+
+* Active Accounts:
+  Your profile details, username, favorites, and notifications are stored while 
+  your account remains active.
+
+* Self-Service Account Deletion:
+  You may permanently delete your account at any time directly through the mobile 
+  application (Profile > Legal & Compliance > Delete Account) using password 
+  confirmation or typing DELETE.
+
+* Erasure Scope:
+  Upon account deletion, your name, username, profile picture file, password 
+  hash, active sessions, authentication tokens, favorites, and personal 
+  notifications are permanently deleted or anonymized. Any upcoming active 
+  reservations are automatically cancelled and freed for other players.
+
+* Retained Anonymous Records:
+  Completed past booking transactions are detached from your personal identity 
+  and retained anonymously to maintain venue financial accounting and platform fee 
+  auditing.
+
+
+9. USER RIGHTS & DATA CONTROLS
+--------------------------------------------------------------------------------
+You have full control over your personal data within the application:
+
+* Access & Update:
+  You can review and update your name, username, and password at any time in 
+  Profile > Personal Details.
+
+* Language Preferences:
+  You can switch your interface language between English and Central Kurdish 
+  (کوردی) at any time.
+
+* Device Permissions:
+  You can grant or revoke Camera, Photo Library, and Location permissions at any 
+  time through your mobile device's operating system settings.
+
+* Account Erasure:
+  You have the unqualified right to permanently delete your account directly 
+  inside the mobile application without needing to contact support.
+
+
+10. CHILDREN'S PRIVACY
+--------------------------------------------------------------------------------
+BlitzApp is designed for general audiences who are capable of reserving sports 
+venues (typically individuals aged 13 or older).
+
+We do not knowingly collect personal data from children under 13 without parental 
+consent. If you become aware that a child under 13 has created an account without 
+parental consent, please contact us at blitz.platform.app@gmail.com so the account 
+and associated data can be promptly removed.
+
+
+11. POLICY CHANGES & UPDATES
+--------------------------------------------------------------------------------
+We may periodically update this Privacy Policy to reflect technical improvements 
+or changes in application features.
+
+When updates occur, the revised policy will be made available inside the 
+application with an updated "Effective Date". Your continued use of the application 
+following updates constitutes your acknowledgment of the revised terms.
+
+
+12. CONTACT INFORMATION
+--------------------------------------------------------------------------------
+If you have any questions, concerns, or requests regarding this Privacy Policy, 
+please contact us at:
+
+Email: blitz.platform.app@gmail.com
+
+Platform: BlitzApp (Independent Project)
+
+Region: Kurdistan Region, Iraq
+================================================================================
